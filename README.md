@@ -1,4 +1,4 @@
-[![MasterHead](http://drive.google.com/uc?export=view&id=1hWn4XaGcq0H27gSuU2LBiavaNBodTCSx)
+[![MasterHead](http://drive.google.com/uc?export=view&id=1hWn4XaGcq0H27gSuU2LBiavaNBodTCSx)]
 
 <h1 align="center">Hi 👋, I'm Julieta Gordillo</h1>
 <h3 align="center">I'm a frontend developer from Argentina</h3>
