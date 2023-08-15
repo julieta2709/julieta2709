@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **julieta.gordillo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hGazwMtwd8cwi4l1wjd1D2YdILb-gSIQ/view?usp=share_link](https://drive.google.com/file/d/1hGazwMtwd8cwi4l1wjd1D2YdILb-gSIQ/view?usp=share_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1hGazwMtwd8cwi4l1wjd1D2YdILb-gSIQ/view?usp=share_link](https://drive.google.com/file/d/13AS3fWVM9WZ-6Ew_bMhpMzWb1kU_qxI1/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
