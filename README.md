@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **get a job**
 
-- 💬 Ask me about **React.js, JavaScript, HTML, CSS**
+- 💬 Ask me about **React.js, JavaScript, HTML, CSS, React Native**
 
 - 📫 How to reach me **julieta.gordillo@gmail.com**
 
